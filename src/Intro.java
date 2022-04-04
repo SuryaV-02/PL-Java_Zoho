@@ -64,6 +64,8 @@ public class Intro {
 			System.out.println(int_set_iter.next());
 		}
 		
+//		arr.get(index);
+//		arr.indexOf(3);
 				
 		
 	}
